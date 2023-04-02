@@ -1,0 +1,14 @@
+h1 {
+    font-family: 'Noto Serif Georgian', serif;
+}
+
+.game-header p {
+    font-size:24px;
+}
+
+.game-box div {
+    width:200px;
+    letter-spacing:2px;
+    font-family: 'Roboto Serif', serif;
+    cursor:pointer;
+}
